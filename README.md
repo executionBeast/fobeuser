@@ -1,4 +1,4 @@
-This is a User Directory App [**App Download Link**](https://drive.google.com/file/d/1qHjQdThvbKgb66mZvcNlcO_zxYQqQDeT/view?usp=sharing) built with [**React Native**](https://reactnative.dev) and  bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a fobeuser App to view profile in to and fro navigation manner [**App Download Link**](https://drive.google.com/file/d/1qHjQdThvbKgb66mZvcNlcO_zxYQqQDeT/view?usp=sharing) built with [**React Native**](https://reactnative.dev) and  bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Fobeuser App
 The User Directory App is a React Native application that allows to view users with search functionality and sort the users in A-Z order. It includes one screens.
